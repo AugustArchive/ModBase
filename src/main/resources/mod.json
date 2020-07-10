@@ -1,0 +1,5 @@
+{
+  "name": "test-mod",
+  "description": "Testing Java's reflection core",
+  "className": "com.thattonybo.modbase.TestMod"
+}
